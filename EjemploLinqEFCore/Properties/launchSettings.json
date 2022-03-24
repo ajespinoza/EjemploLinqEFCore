@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EjemploLinqEFCore": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\Sistemas\\Net\\EjemploLinqEFCore\\EjemploLinqEFCore"
+    }
+  }
+}
